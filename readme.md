@@ -1,4 +1,8 @@
 # ❗ work in progress ❗
+assets still not final
+
+refactoring in progress
+
 ## Wordle Clone
 ![screenshot](screenshots/game.gif)
 PyGame Wordle clone, guess a random five letter word in six guesses. The sourcecode should be easy enough to understand to implement your own ideas or change what ever is bothering you!
